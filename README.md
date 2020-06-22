@@ -1,7 +1,7 @@
 For Social Media App Project :-
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-what uses this project -> reactjs, firebase, material UI, express, react Redux,\ 
+what uses this project -> reactjs, firebase, material UI, express, react (with Redux). 
 
 VS Code Extension -\
 	1. Bracket pair colorizer\
@@ -22,7 +22,7 @@ Firebase Setting -\
 	8. ESLint -> no\
 	9. Install dependencied with npm -> yes\
 	10. code .\
-	11. make some change inside index.js inside function folder and in cmd write "firebase deploy".\
+	11. make some change inside index.js inside function folder and in cmd write "firebase deploy".
 	
 	// for get Created documents in firebase collection (screams)
 	12. Goto database nav bar and add collection named "screams" 
@@ -54,9 +54,9 @@ Part-3 User Authentication :-\
 	5. make update to index.js file.
 	
 	Note :-
-		1. Firebase doesn't allow to store more info. regarding user by default.\ 
-		2. SO we create manually seperate collection to add further userDetails.\ 
-		3. We created 'users' collection to check whether user is registers or not.\
+		1. Firebase doesn't allow to store more info. regarding user by default.
+		2. SO we create manually seperate collection to add further userDetails.
+		3. We created 'users' collection to check whether user is registers or not.
 		
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
