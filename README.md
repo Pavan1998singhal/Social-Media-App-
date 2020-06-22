@@ -60,6 +60,6 @@ Note -> 1. Firebase doesn't allow to store more info. regarding user by default.
 		
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Part-4 Validation & Login Route_
-	1. update index.js file._
-	2. deploy to firebase and test it._
+Part-4 Validation & Login Route\
+	1. update index.js file.\
+	2. deploy to firebase and test it.\
