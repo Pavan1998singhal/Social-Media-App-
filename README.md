@@ -74,9 +74,16 @@ Part-5 Authentication Middleware\
 --------------------------------------------------------------------------------------------------
 
 Part-6 Refactoring and orginising\
-	1. create an folder "util" under function folder.  \ 
+	1. create an folder "util" under function folder.\ 
 	2. create an "admin.js" inside util folder.    -> for seperating admin work\
 	3. create an "handlers" folder inside function folder.\
 	4. create file 'screams.js' and 'users.js'     -> for seperating route works\
 	5. create an 'config.js' under util folder	   -> for config string \
-	6. create an 'fbauth.js' under util folder     -> for firebase authentication config
+	6. create an 'fbauth.js' under util folder     -> for firebase authentication config.
+
+-------------------------------------------------------------------------------------------------
+
+Part-7 Image Upload\
+	1. install 'npm install --save busboy'\
+	2. update 'index.js'\
+	3. goto 'Storage Tab' in firebase and add "allow read;" and click on "Publish" button.
